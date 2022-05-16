@@ -7,7 +7,7 @@
 
 All data are publicly available.
 
-#### Cell Painting
+#### Confocal Microscopy
 
 | Data | Level | Location | Notes |
 | :---- | :---- | :------ | :---- |
