@@ -1,6 +1,6 @@
 # 0. Download Data
 
-### Download Method Decision Tree:
+### Download Methods:
 
 - ~~Donwload via [idr-py](https://github.com/IDR/idr-py)~~
   - [IDR_downloader.ipynb](../0.download_data/IDR_downloader.ipynb)
